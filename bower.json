@@ -1,0 +1,19 @@
+{
+  "name": "pjs",
+  "version": "0.0.0",
+  "authors": [
+    "Daniel Ramirez <javamonn@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Processing.js": "~1.4.9",
+    "polymer": "Polymer/polymer#~0.5.4"
+  }
+}
